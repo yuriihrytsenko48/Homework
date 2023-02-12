@@ -1,3 +1,5 @@
+"""Включає в себе завдання №1 імпорти та №1 робота з файлами"""
+
 import random
 import scores_operating as so
 import words_file_operating as wfo
